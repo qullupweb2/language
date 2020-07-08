@@ -1,0 +1,28 @@
+<?php
+
+return array (
+  'title' => 'Các khóa học và bài kiểm tra của tôi',
+  'payment_number' => 'Số thanh toán',
+  'name' => 'Tiêu đề',
+  'start_date' => 'Ngày bắt đầu',
+  'end_date' => 'Ngày kết thúc',
+  'courses' => 'Khóa học',
+  'examens' => 'Bài kiểm tra',
+  'documents' => 'Tài liệu',
+  'download' => 'Tải xuống',
+  'paid' => 'Trả tiền',
+  'pre_paid' => 'Trả một phần',
+  'paid_cash' => 'Trả bằng tiền mặt',
+  'not_paid' => 'Không được trả tiền',
+  'break' => 'Đã kết thúc',
+  'expired' => 'Đã hết hạn',
+  'wait_result' => 'Kết quả mong đợi',
+  'complete_exem' => 'Đã hoàn thành',
+  'results' => 'Kết quả',
+  'tab1' => 'Khóa học',
+  'tab2' => 'Bài kiểm tra',
+  'tab3' => 'Chỗ ở',
+  'no_records' => 'Không tìm thấy hồ sơ',
+  'f_room' => 'Phòng nữ',
+  'm_room' => 'Phòng nam',
+);

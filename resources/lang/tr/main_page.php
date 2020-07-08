@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'h1_title' => 'Hannover\'de Almanca dil kursları',
+  'h1_description' => 'DKH, Telc sertifikalı bir dil okuludur. DKH Sprachschule, Hannover\'deki Almanca kurslarının en büyük ve en iyi sağlayıcısıdır ve bu alanda geniş deneyime sahiptir.',
+  'order_btn' => 'Hannover\'de Almanca dil kursları',
+  'contact_btn' => 'İletişim',
+  'couses_heading' => 'Kurslarımız',
+  'videos_title' => 'videolar',
+  'videos_description' => 'Online Almanca öğrenmek için videolar',
+  'lections_title' => 'dersler',
+  'lections_description' => 'Online Almanca öğrenmek için videolar',
+  'exercises_title' => 'egzersizleri',
+  'exercises_description' => 'Online Almanca öğrenmek için videolar',
+  'tests_title' => 'Çevrimiçi testler',
+  'tests_description' => 'Almanca bilginizi çevrimiçi test edin',
+  'contact_title' => 'Bizi ziyaret et',
+  'tell_title' => 'Bize Ulaşın',
+  'test_lvl_btn' => 'Dil seviyesini belirleme',
+  'read_more_btn' => 'Daha fazlası',
+  'title' => 'ev',
+  'meta_title' => 'Almanca kursu Hannover, dil okulu Hannover, Almanca kursu',
+  'meta_description' => 'Almanca kursu Hannover, dil okulu Hannover, Almanca kursu Hanover, - A1 - C1 -, Almanca kursu Hanover, Almanca kursu Hanover, dil okulu Hannover, TELC',
+  'learn_btn' => 'Online Almanca kursları',
+  'desc_view_test' => 'TestDaF almaya karar verdiyseniz, zaten iyi derecede Almanca biliyor olmalısınız. TestDaF Enstitüsü en az 700 Almanca eğitim birimi önermektedir. Yaklaşık 1000 öğretim biriminde yer aldıysanız daha iyi olur. TestDaF öncelikle Almanya\'daki bir üniversitede okumak için Almanca bilgisini test ettiğinden, iyi bir orta veya ileri düzeyde bilgiye sahip olmalısınız. Ana odak noktası, bilimsel metinleri (okuma veya dinleme) yeterince alıp alamayacağınız ve derslerde ve günlük üniversite yaşamında (yazma ve konuşma) iletişimde yer alıp alamayacağınızdır. Bu nedenle, iletişimsel yetkinliğiniz z oluşturmaktan daha önemlidir. B. dilbilgisi kuralları ve yapıları. TestDaF formatını tanımanız önemlidir. Bunun için birçok egzersiz seçeneği sunuyoruz.',
+);

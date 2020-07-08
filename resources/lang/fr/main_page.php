@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'h1_title' => 'Cours d\'allemand à Hanovre',
+  'h1_description' => 'DKH est une école de langues certifiée Telc. DKH Sprachschule est le plus grand et le meilleur fournisseur de cours d\'allemand à Hanovre et possède une vaste expérience dans le domaine.',
+  'order_btn' => 'Cours d\'allemand à Hanovre',
+  'contact_btn' => 'Contact',
+  'couses_heading' => 'Nos cours',
+  'videos_title' => 'vidéos',
+  'videos_description' => 'Vidéos pour apprendre l\'allemand en ligne',
+  'lections_title' => 'Leçons',
+  'lections_description' => 'Vidéos pour apprendre l\'allemand en ligne',
+  'exercises_title' => 'exercices',
+  'exercises_description' => 'Vidéos pour apprendre l\'allemand en ligne',
+  'tests_title' => 'Tests en ligne',
+  'tests_description' => 'Testez vos connaissances de l\'allemand en ligne',
+  'contact_title' => 'Rendez nous visite',
+  'tell_title' => 'Nous contacter',
+  'test_lvl_btn' => 'Déterminer le niveau de langue',
+  'read_more_btn' => 'Lire la suite',
+  'title' => 'Accueil',
+  'meta_title' => 'Cours d\'allemand Hanovre, école de langues Hanovre, cours d\'allemand',
+  'meta_description' => 'Cours d\'allemand Hanovre, école de langues Hanovre, cours d\'allemand Hanovre, - A1 à C1 -, cours d\'allemand à Hanovre, cours d\'allemand à Hanovre, école de langue à Hanovre, TELC',
+  'learn_btn' => 'Cours d\'allemand en ligne',
+  'desc_view_test' => 'Si vous avez décidé de passer le TestDaF, vous devez déjà avoir une bonne connaissance de l\'allemand. L\'Institut TestDaF recommande au moins 700 leçons d\'allemand. C\'est mieux si vous avez déjà participé à environ 1000 unités d\'enseignement. Étant donné que le TestDaF teste principalement la connaissance de l\'allemand pour étudier dans une université en Allemagne, vous devez avoir de bonnes connaissances intermédiaires ou même avancées. L\'objectif principal est de savoir si vous pouvez recevoir adéquatement des textes scientifiques (lecture ou écoute) et pouvez participer à la communication dans les cours et dans la vie universitaire quotidienne (écriture et parole). Votre compétence communicative est donc plus importante que le rendu de z. B. règles et structures grammaticales. Il est important que vous vous familiarisiez avec le format du TestDaF. Nous proposons de nombreuses options d\'exercice pour cela.',
+);

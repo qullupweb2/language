@@ -1,0 +1,26 @@
+<?php
+
+return array (
+  'h1_title' => 'Cursos de alemán en Hannover',
+  'h1_description' => 'DKH es una escuela de idiomas certificada por Telc. DKH Sprachschule es el proveedor más grande y mejor de cursos de alemán en Hannover y tiene una amplia experiencia en el campo.',
+  'order_btn' => 'Cursos de alemán en Hannover',
+  'contact_btn' => 'Contacto',
+  'couses_heading' => 'Nuestros cursos',
+  'videos_title' => 'vídeos',
+  'videos_description' => 'Videos para aprender alemán en línea',
+  'lections_title' => 'lecciones',
+  'lections_description' => 'Videos para aprender alemán en línea',
+  'exercises_title' => 'ejercicios',
+  'exercises_description' => 'Videos para aprender alemán en línea',
+  'tests_title' => 'Pruebas en línea',
+  'tests_description' => 'Pon a prueba tus conocimientos de alemán en línea',
+  'contact_title' => 'Visítanos',
+  'tell_title' => 'Contáctenos',
+  'test_lvl_btn' => 'Determinar el nivel del idioma.',
+  'read_more_btn' => 'Leer mas',
+  'title' => 'Inicio',
+  'meta_title' => 'Cursos de alemán Hanóver, escuela de idiomas Hanóver, curso de alemán',
+  'meta_description' => 'Cursos de alemán en Hannover, escuela de idiomas en Hannover, curso de alemán en Hannover, - A1 a C1 -, cursos de alemán en Hannover, curso de alemán en Hannover, escuela de idiomas en Hannover, TELC',
+  'learn_btn' => 'Cursos de alemán en línea',
+  'desc_view_test' => 'Si ha decidido tomar el TestDaF, ya debe tener un buen conocimiento del alemán. El TestDaF Institute recomienda al menos 700 unidades de enseñanza de alemán. Es mejor si ya ha participado en alrededor de 1,000 unidades de enseñanza. Dado que TestDaF evalúa principalmente el conocimiento del alemán para estudiar en una universidad en Alemania, debe tener un buen conocimiento intermedio o incluso avanzado. El enfoque principal es si puede recibir adecuadamente los textos científicos (leer o escuchar) y si puede participar en la comunicación en los cursos y en la vida universitaria diaria (escribir y hablar). Su competencia comunicativa es, por lo tanto, más importante que representar z. B. reglas y estructuras gramaticales. Es importante que se familiarice con el formato de TestDaF. Ofrecemos muchas opciones de ejercicio para esto.',
+);

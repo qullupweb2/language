@@ -1,0 +1,28 @@
+<?php
+
+return array (
+  'title' => '我的课程和考试',
+  'payment_number' => '付款号码',
+  'name' => '职称',
+  'start_date' => '开始日期',
+  'end_date' => '结束日期',
+  'courses' => '课程设置',
+  'examens' => '考试',
+  'documents' => '文件',
+  'download' => '资料下载',
+  'paid' => '已付费',
+  'pre_paid' => '部分付款',
+  'paid_cash' => '现金支付',
+  'not_paid' => '未付款',
+  'break' => '已结束',
+  'expired' => '已过期',
+  'wait_result' => '预期结果',
+  'complete_exem' => '已完成',
+  'results' => '结果',
+  'tab1' => '课程设置',
+  'tab2' => '考试',
+  'tab3' => '食宿',
+  'no_records' => '找不到记录',
+  'f_room' => '女房',
+  'm_room' => '男士房',
+);
